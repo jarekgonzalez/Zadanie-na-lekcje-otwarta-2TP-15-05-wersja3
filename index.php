@@ -18,7 +18,7 @@
 				MY MARKET
 			</h1>
 			<h3 class="naglowek2">
-				 - analiza sprzedaży sklepu internetowego
+				 - analiza sprzedaży sklepu internetowego tak
 			</h3>
 		</div>
 		<div class="orders">
